@@ -1,7 +1,16 @@
 # 👋 Привет, я Кирилл!
 
 ## 🧑‍💻 Обо мне
-- Backend Engineer с 19 годами опыта в IT и 4+ годами из них целенаправленной работы на Python. Специализируюсь на высоконагруженных e-commerce системах и автоматизации бизнес-процессов. В последнее время спроектировал ETL-пайплайн для 41 000+ SKU, автоматизировал >90% рутинных операций и внедрил production-ready архитектуру на Python/Django/FastAPI. В 2023–2024 гг. провёл техническую модернизацию стека: CI/CD, контейнеризацию, строгую типизацию и покрытие кода тестами. Ищу роль Backend Developer, чтобы применять инженерные практики, оптимизировать производительность и масштабировать сервисы. Для систематизации знаний и подтверждения практических компетенций прошёл профессиональный курс „Python-разработчик плюс“ в Яндекс.Практикуме, успешно завершив обучение и получив диплом.
+- DevOps(DevSecOps)/Backend-инженер, 19+ лет в IT.
+- ТЕХНИЧЕСКИЕ НАВЫКИ
+- Языки и Фреймворки: Python 3.10+, FastAPI, Django, DRF, Flask, Pydantic v2, SQLAlchemy 2.0, Alembic, async/await, OOP
+- Базы данных: PostgreSQL, SQLite, MySQL, Redis, MongoDB, ClickHouse
+- Инфраструктура и DevOps: Docker, Docker Compose, Kubernetes, Helm, Nginx, Gunicorn, GitHub Actions (CI/CD), GitLab CI, Jenkins, ArgoCD, Linux/Bash, HTTPS/SSL, DNS, Prometheus, Grafana, ELK Stack, Terraform, Ansible
+- Очереди и Stream Processing: Celery, RabbitMQ, Apache Kafka
+- API и Интеграции: REST API design, OAuth2, JWT, Webhooks, retry-logic, rate limiting, Telegram Bot API, Google Sheets/Drive API, эквайринг, ККТ, WebSocket, gRPC
+- Тестирование и Инструменты: pytest, httpx, requests, faker, Locust, Postman, Git/GitHub, Scrapy, BeautifulSoup, Selenium, YAML, error handling, logging, troubleshooting production-систем.
+
+- 4+ года работы на Python. Специализируюсь на высоконагруженных e-commerce системах и автоматизации бизнес-процессов. В последнее время спроектировал ETL-пайплайн для 41 000+ SKU, автоматизировал >90% рутинных операций и внедрил production-ready архитектуру на Python/Django/FastAPI. В 2023–2024 гг. провёл техническую модернизацию стека: CI/CD, контейнеризацию, строгую типизацию и покрытие кода тестами. Ищу роль DevOps, чтобы применять инженерные практики, оптимизировать производительность и масштабировать сервисы. Для систематизации знаний в программировании и подтверждения практических компетенций прошёл профессиональный курс „Python-разработчик плюс“ в Яндекс.Практикуме, успешно завершив обучение и получив диплом.
 - 📫 Как связаться: ka-kuznetsov@yandex.ru | [@ka_kuznetsov](https://t.me/ka_kuznetsov)
 
 ---
